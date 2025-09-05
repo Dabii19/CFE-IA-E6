@@ -63,4 +63,6 @@ Survived
 
 # Resultados
 
+El modelo logra una exactitud aproximada de entre 0.75 - 0.80
+
 El archivo submission.csv está listo para enviarse a Kaggle.
